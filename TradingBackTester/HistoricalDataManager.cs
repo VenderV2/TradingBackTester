@@ -2,7 +2,6 @@
 using TradingBackTester.UI_Managers;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Windows.Forms.DataVisualization.Charting;
 using IBApi;
 
